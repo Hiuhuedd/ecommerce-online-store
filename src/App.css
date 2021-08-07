@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,43 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* .Splash-splash h2 {
+    font-size: 40px;
+    position: relative;
+    opacity: 0;
+    animation: anim 1s;
+    animation-fill-mode: forwards;
+    animation-delay: 1.5s;
 }
+
+@keyframes anim {
+    0% {
+        top: -80px;
+        opacity: 0;
+    }
+    100% {
+        top: 0px;
+        opacity: 10;
+    }
+}
+
+.Splash-splash {
+    position: fixed;
+    max-width: ''100%'';
+    top: ''0'';
+    left: ''0'';
+    height: ''100vh'';
+    width: ''100vw'';
+    background: ''black'';
+    color: ''white'';
+    text-align: ''center'';
+    line-height: ''90vh'';
+}
+
+.image {
+    margin-right: ''10px'';
+    border-top-left-radius: ''50%'';
+} */
